@@ -3,8 +3,11 @@ This project is an end-to-end machine learning application that predicts weather
 
 This project demonstrates the complete lifecycle of a data science project, from data acquisition and cleaning to model training, evaluation, and deployment as a user-facing application.
 
-Final Application Screenshot
-(This is where you should add a screenshot of your final, working Streamlit app!)
+
+Final Application Screenshot<img width="1266" height="564" alt="Weather_app-pic" src="https://github.com/user-attachments/assets/14257c81-6608-450a-8095-f5e1ee4db1e9" />
+<img width="1182" height="715" alt="Weatherapp_pic" src="https://github.com/user-attachments/assets/06496dc0-9687-4e1e-948f-0364f9ced2d9" />
+
+
 
 Features
 Data Processing: Uses pandas for efficient loading, cleaning, and preparation of weather data.
